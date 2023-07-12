@@ -1,0 +1,3 @@
+function EmpezarAlg() {
+    alert("Cómo pudiste engañarme Un amor tan grande que el que yo te di Mi vida no sea tan cobarde Cuando uno no ama no se porta así Yo sé que la traición existe Pero yo confiaba muchísimo en ti Con que voy aliviar mi alma Si no tengo nada si ya te perdí Y ahora sé que en el fracaso Todita sus flechas apuntándome a mí Tú que jurabas amarme me pagaste así.                                                                                                                         REFLEXIONA CAMILA");
+}
