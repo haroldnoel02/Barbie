@@ -1,5 +1,5 @@
 function EmpezarAlg() {
-    alert("\n\n*Suena MUERE UNA FLOR* :(((((\n\nReflexiona Camilita");
+    alert("\n\n*Suena MUERE UNA FLOR* :(((((\n\nReflexiona por favor Camilita");
 }
 
 
